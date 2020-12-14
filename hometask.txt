@@ -1,0 +1,4 @@
+Отличия: человек в human.txt в ветке aster больше,
+И строкой в README: and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+Я насчитал 7 commit'ов
